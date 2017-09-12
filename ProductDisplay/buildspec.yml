@@ -10,5 +10,5 @@ discard-paths: yes
   artifacts:
   files:
     - appspec.yml
-    - target/target/ProductDisplay.jar
+    - target/ProductDisplay.jar
     - scripts/*
