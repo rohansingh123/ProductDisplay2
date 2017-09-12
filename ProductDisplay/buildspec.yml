@@ -8,6 +8,7 @@ phases:
 artifacts:
 discard-paths: yes
   artifacts:
+  discard-paths: yes
   files:
     - MainController.java
     - target/ProductDisplay.jar
