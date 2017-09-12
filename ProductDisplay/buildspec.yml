@@ -7,7 +7,8 @@ phases:
 
 artifacts:
 discard-paths: yes
+  artifacts:
   files:
     - appspec.yml
-    - target/ProductDsplay.jar
-    -scripts/*
+    - target/target/ProductDisplay.jar
+    - scripts/*
